@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .gamil{
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 50px;
+                display: inline;
+                background-color: white;
+                border: 2px solid white;
+                border-radius: 70px;
+                padding-bottom: 9px;
+                padding-top: 15px;
+                box-sizing: 2px 15px 25px gray;
+            }
+            span{
+                color: red;
+                font-size: 80px;
+            }
+            a{
+                color: black;
+                text-decoration: none;
+                padding: 30px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="gmail">
+            <a href="#"><span>+</span>Compose</a>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,8 @@
+class A
+{
+public static void main(String st[])
+{
+String s="Kumum Bhatt";
+System.out.println(s.toLowerCase());
+}
+}

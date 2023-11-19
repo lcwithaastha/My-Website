@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <style>
+          div{
+              margin: 20px;
+              border: 2px solid navy;
+              border-radius: 25px;
+              display: inline;
+              background-color: navy;
+              padding: 15px;
+              padding-bottom: 10px;
+              padding-top: 20px;
+          }
+          a{
+              font-size: 30px;
+              font-family: Arial, Helvetica, sans-serif;
+              color: white;
+              text-decoration: none;
+          }
+      </style>
+    </head>
+    <body>
+        <div>
+            <a href="#">TWEET</a>
+        </div>
+    </body>
+</html>
+

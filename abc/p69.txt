@@ -1,0 +1,9 @@
+class A
+{
+public static void main(String st[])
+{
+String s1="kumkum";
+String s2="semwal";
+System.out.println(s1+" "+s2);
+}
+}

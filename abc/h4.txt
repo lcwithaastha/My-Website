@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>HTML</title>
+</head>
+<body><br>
+    <b><u>ORDERED LIST:</b></u>
+    <ol type="1">
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>milk</li>
+        
+    </ol>
+    <b><u>UNORDERED LIST:</b></u>
+    <ul>
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>milk</li>
+    </ul>
+    
+</body>
+</html>

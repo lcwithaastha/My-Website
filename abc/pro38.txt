@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style type="text/css">
+        *{
+            margin: 0;
+            padding: 0;
+            font-family: 'clibri(body)',Arial, Helvetica, sans-serif;
+        }
+        .container{
+            height: 300px;
+            width: 500px;
+            text-align: center;
+            margin: 100px 400px;
+        }
+        .new{
+            color: red;
+            padding-bottom: 10px;
+        }
+        .pro{
+            font-size: 20px;
+            padding-bottom: 10px;
+        }
+        .cost{
+            font-size: 18px;
+            padding-top:10px ;
+            padding-bottom: 30px;
+        }
+        a{
+            color: white;
+            background-color: navy;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 20px;
+        }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <p class="new"> New</p> 
+            <p class="pro">MacBook pro</p>
+            <h1>Super charged for pros.</h1>
+            <p class="cost">Cost from $1999</p>
+            <a href="#">Buy</a>
+        </div>
+    </body>
+</html>

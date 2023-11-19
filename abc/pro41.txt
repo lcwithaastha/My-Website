@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style type="text/css">
+            *{
+                margin: 0;
+                padding: 0;
+            }
+            .container{
+                height: 300px;
+                width: 700px;
+                padding: 10px;
+            }
+            img{
+                height: 50px;
+                width: 50px;
+                border-radius: 50%;
+            }
+            .first, .second, .third{
+             display: flex;
+             padding: 10px;
+            }
+            h3{
+                padding-left:20px;
+            }
+            p{
+                padding-left: 20px;
+                color: gray;
+            }
+            a{
+                text-decoration: none;
+                color: white;
+                background-color: blue;
+                padding: 10px;
+            }
+            .link{
+                padding: 20px 80px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="first">
+                <img src="back.jpg">
+                <div class="name">
+                    <h3>Lola</h3>
+                    <p> The cat <br> Famous</p>
+        </div>
+        <div class="link">
+            <a href="#">Follow</a>
+            </div>
+        </div>
+        <div class="second">
+            <img src="back.jpg">
+            <div class="name">
+                <h3>Lola</h3>
+                <p>The cat <br> Famous </p>
+            </div>
+        <div class="link">
+            <a href="#">Follow</a>
+        </div>
+        </div>
+        <div class="third">
+            <img src="back.jpg">
+            <div class="name">
+                <h3>Lola</h3>
+                <p>The cat <br> Famous</p>
+            </div>
+            <div class="link">
+                <a href="#">Follow</a>
+            </div>
+        </div>
+    </body>
+</html>
